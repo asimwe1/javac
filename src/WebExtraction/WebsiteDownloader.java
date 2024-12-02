@@ -46,13 +46,19 @@ public class WebsiteDownloader {
 //
 
     public static void main(String[] args) throws Exception {
-        try{
+        try {
             initializeDatabase();
             Scanner scanner = new Scanner(System.in);
             System.out.print("Enter website URL: ");
             String url = scanner.nextLine();
             String domain = new URL(url).getHost();
-            Path outputDir = Paths.get(domain);
+
+            // Create a websites directory if it doesn't exist
+            Path rootDir = Paths.get("websites");
+            Files.createDirectories(rootDir);
+
+            // Create a subdirectory for the specific domain
+            Path outputDir = rootDir.resolve(domain);
             Files.createDirectories(outputDir);
 
             long startTime = System.currentTimeMillis();
@@ -65,9 +71,9 @@ public class WebsiteDownloader {
             generateCompletionReport(domain, startTime, endTime);
             scanner.close();
         } catch (MalformedURLException e) {
-            System.out.println("the URL input is wrongly formulated: " + e.getMessage());
+            System.out.println("The URL input is incorrectly formatted: " + e.getMessage());
         } catch (UnknownHostException e) {
-            System.out.println("Invalid email: " + e.getMessage());
+            System.out.println("Invalid domain: " + e.getMessage());
         }
     }
 
@@ -152,8 +158,15 @@ public class WebsiteDownloader {
         for (String link : links) {
             futures.add(executor.submit(() -> {
                 try {
-                    String fileName = outputDir.resolve(link.substring(link.lastIndexOf("/") + 1)).toString();
-                    downloadFile(link, fileName);
+                    // Extract file name from the link
+                    String fileName = link.substring(link.lastIndexOf("/") + 1);
+                    // Add .html suffix if not already present
+                    if (!fileName.endsWith(".html")) {
+                        fileName += ".html";
+                    }
+                    // Resolve the output path
+                    String outputPath = outputDir.resolve(fileName).toString();
+                    downloadFile(link, outputPath);
                 } catch (Exception e) {
                     System.out.println("Failed to download: " + link);
                 }

@@ -5,33 +5,146 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9572972a-d8c1-4f39-9839-6c2f991351b6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sqlite_jdbc_3_46_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multiple.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DbStaff/Cell.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DbStaff/District.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DbStaff/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DbStaff/Province.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DbStaff/Village.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hello.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Multiple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WebExtraction/WebsiteDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/blah.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collections/Arithmetic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collections/Box.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collections/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collections/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collections/Programs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/newNew/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/regex/regularExpression.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/throwing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/asimwe.vercel.app/asimwe1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/asimwe.vercel.app/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/asimwe.vercel.app/landry_sb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/d11n7da8rpqbjy.cloudfront.net/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/downloads.db" beforeDir="false" afterPath="$PROJECT_DIR$/downloads.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/irembo.gov.rw/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/irembo.gov.rw/intlTelInput.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rtb.gov.rw/332.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rtb.gov.rw/686b6e1649f04ce388e9255cadb00dd5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rtb.gov.rw/RTB_Rwanda" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rtb.gov.rw/curricula" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rtb.gov.rw/en" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rtb.gov.rw/enabel-rwanda" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rtb.gov.rw/eu-rwanda-business-forum-set-stage-stronger-trade-and-investment-relations_en" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rtb.gov.rw/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rtb.gov.rw/swiss-cooperation-office.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rtb.gov.rw/www.facebook.com" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rtb.gov.rw/www.mineduc.gov.rw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rtb.gov.rw/www.reb.rw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rtb.gov.rw/www.rp.ac.rw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rtb.gov.rw/www.ur.ac.rw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WebExtraction/WebsiteDownloader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WebExtraction/WebsiteDownloader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.cnn.com/5-things" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.cnn.com/?hpt=header_edition-picker" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.cnn.com/@cnn?lang=en" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.cnn.com/CNN" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.cnn.com/about" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.cnn.com/accessibility" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.cnn.com/ad-choices" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.cnn.com/africa" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.cnn.com/after-hours" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.cnn.com/all-shows" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.cnn.com/all-there-is-with-anderson-cooper" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.cnn.com/americas" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.cnn.com/arabic.cnn.com?hpt=header_edition-picker" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.cnn.com/architecture" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.cnn.com/arts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.cnn.com/asequals" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.cnn.com/asia" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.cnn.com/audio" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.cnn.com/australia" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.cnn.com/axe-files" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.cnn.com/beauty" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.cnn.com/business" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.cnn.com/call-to-earth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.cnn.com/celebrities" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.cnn.com/chasing-life" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.cnn.com/china" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.cnn.com/climate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.cnn.com/climbing" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.cnn.com/cnn" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.cnn.com/cnn-investigates" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.cnn.com/cnn-leadership" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.cnn.com/cnn-max" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.cnn.com/cnn10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.cnn.com/cnni-fast" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.cnn.com/cnnjobs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.cnn.com/design" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.cnn.com/destinations" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.cnn.com/edition.cnn.com" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.cnn.com/edition.cnn.com?hpt=header_edition-picker" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.cnn.com/entertainment" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.cnn.com/esports" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.cnn.com/europe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.cnn.com/fashion" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.cnn.com/fear-and-greed" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.cnn.com/financial-calculators" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.cnn.com/fitness" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.cnn.com/food" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.cnn.com/food-and-drink" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.cnn.com/football" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.cnn.com/foreseeable-future" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.cnn.com/freedom-project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.cnn.com/golf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.cnn.com/health" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.cnn.com/heroes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.cnn.com/impact-your-world" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.cnn.com/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.cnn.com/india" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.cnn.com/innovate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.cnn.com/innovative-cities" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.cnn.com/inside-africa" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.cnn.com/investing" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.cnn.com/israel" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.cnn.com/landingprod.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.cnn.com/life" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.cnn.com/live-tv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.cnn.com/luxury" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.cnn.com/markets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.cnn.com/markets-now" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.cnn.com/media" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.cnn.com/middle-east" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.cnn.com/mindfulness" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.cnn.com/mission-ahead" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.cnn.com/motorsport" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.cnn.com/movies" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.cnn.com/news" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.cnn.com/newsletters" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.cnn.com/nhl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.cnn.com/nightcap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.cnn.com/one-thing" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.cnn.com/paris-olympics-2024" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.cnn.com/photos" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.cnn.com/political-briefing" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.cnn.com/politics" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.cnn.com/premarkets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.cnn.com/privacy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.cnn.com/profiles" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.cnn.com/relationships" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.cnn.com/science" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.cnn.com/sleep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.cnn.com/solutions" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.cnn.com/space" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.cnn.com/specials" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.cnn.com/sport" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.cnn.com/sports" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.cnn.com/stay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.cnn.com/style" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.cnn.com/tech" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.cnn.com/tennis" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.cnn.com/terms" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.cnn.com/the-assignment" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.cnn.com/transcripts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.cnn.com/travel" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.cnn.com/tug-of-war" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.cnn.com/tv-shows" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.cnn.com/ukraine" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.cnn.com/unearthed" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.cnn.com/united-kingdom" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.cnn.com/us" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.cnn.com/us-sports" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.cnn.com/us.cnn.com?hpt=header_edition-picker" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.cnn.com/video" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.cnn.com/videos" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.cnn.com/weather" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.cnn.com/work-transformed" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.cnn.com/world.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube.com/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube.com/youtube" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,36 +172,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Cell.executor": "Run",
-    "Application.District.executor": "Run",
-    "Application.FileNotFoundException.executor": "Run",
-    "Application.Files.executor": "Run",
-    "Application.Hello.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.Multiple.executor": "Run",
-    "Application.Programs.executor": "Run",
-    "Application.Province.executor": "Run",
-    "Application.Sector.executor": "Run",
-    "Application.ThrowDemo.executor": "Run",
-    "Application.Village.executor": "Run",
-    "Application.WebsiteDownloader.executor": "Run",
-    "Application.blah.executor": "Run",
-    "Application.regularExpression.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/landry/Documents/projects/java/jsoup-1.18.2.jar",
-    "onboarding.tips.debug.path": "/home/landry/Documents/projects/java/multiple/src/Main.java",
-    "project.structure.last.edited": "Libraries",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.keymap"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Cell.executor&quot;: &quot;Run&quot;,
+    &quot;Application.District.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FileNotFoundException.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Files.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Hello.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Multiple.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Programs.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Province.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Sector.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ThrowDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Village.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WebsiteDownloader.executor&quot;: &quot;Run&quot;,
+    &quot;Application.blah.executor&quot;: &quot;Run&quot;,
+    &quot;Application.regularExpression.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/landry/Documents/projects/java/jsoup-1.18.2.jar&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/home/landry/Documents/projects/java/multiple/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.WebsiteDownloader">
     <configuration name="Hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Hello" />
