@@ -53,11 +53,9 @@ public class WebsiteDownloader {
             String url = scanner.nextLine();
             String domain = new URL(url).getHost();
 
-            // Create a websites directory if it doesn't exist
             Path rootDir = Paths.get("websites");
             Files.createDirectories(rootDir);
 
-            // Create a subdirectory for the specific domain
             Path outputDir = rootDir.resolve(domain);
             Files.createDirectories(outputDir);
 
@@ -158,13 +156,10 @@ public class WebsiteDownloader {
         for (String link : links) {
             futures.add(executor.submit(() -> {
                 try {
-                    // Extract file name from the link
                     String fileName = link.substring(link.lastIndexOf("/") + 1);
-                    // Add .html suffix if not already present
                     if (!fileName.endsWith(".html")) {
                         fileName += ".html";
                     }
-                    // Resolve the output path
                     String outputPath = outputDir.resolve(fileName).toString();
                     downloadFile(link, outputPath);
                 } catch (Exception e) {
