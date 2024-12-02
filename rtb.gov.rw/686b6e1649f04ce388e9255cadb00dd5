@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title>ArcGIS Dashboards</title>
+    <meta name="description" content="ArcGIS Dashboards" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta http-equiv="Content-Security-Policy" content="" />
+    <link rel="icon" href="https://cdn-a.arcgis.com/dbcdn/1B88C8F/assets/images/arcgis-dashboards-16-57c7bdca757e2544acb67f661775b0ba.png" type="image/png" />
+
+    
+<link href="https://cdn-a.arcgis.com/dbcdn/1B88C8F/assets/arcgis-core/esri/themes/dark/main.css" rel="stylesheet" type="text/css" data-theme="api-dark">
+<link href="https://cdn-a.arcgis.com/dbcdn/1B88C8F/assets/arcgis-core/esri/themes/light/main.css" rel="stylesheet" type="text/css" data-theme="api-light">
+<script type="text/javascript">__webpack_public_path__ = "https://cdn-a.arcgis.com/dbcdn/1B88C8F/assets/";</script>
+    <link rel="stylesheet" href="https://cdn-a.arcgis.com/dbcdn/1B88C8F/assets/vendor-49f04ca4c051bde8b92ea8c31897de24.css" />
+<link rel="stylesheet" href="https://cdn-a.arcgis.com/dbcdn/1B88C8F/assets/chunk.75118.a9f421745f4cf8b6c803.css"/>
+    <link rel="stylesheet" href="https://cdn-a.arcgis.com/dbcdn/1B88C8F/assets/app-a3ca87c4b608dae825ebd35a4953334c.css" />
+    <script src="https://cdn-a.arcgis.com/dbcdn/1B88C8F/assets/before-amd-221d67fb9eb21073f94bf81e08b383b9.js"></script>
+  </head>
+
+  <body>
+    <div id="initialLoadingContainer" class="loader-icon-container">
+      <calcite-loader scale="l"></calcite-loader>
+    </div>
+
+    
+    <script src="https://cdn-a.arcgis.com/dbcdn/1B88C8F/assets/vendor-af3f9d720c13fa3e7f0a537cf1f62a0b.js"></script>
+<script src="https://cdn-a.arcgis.com/dbcdn/1B88C8F/assets/chunk.75118.a9f421745f4cf8b6c803.js"></script>
+<script src="https://cdn-a.arcgis.com/dbcdn/1B88C8F/assets/chunk.60426.a1f24d55c1760a755d67.js"></script>
+<script src="https://cdn-a.arcgis.com/dbcdn/1B88C8F/assets/chunk.33524.f665b411f2bd1b85dd6e.js"></script>
+    <script src="https://cdn-a.arcgis.com/dbcdn/1B88C8F/assets/nickel-1ec42d42ec8c6ffaf7907b28487606b4.js"></script>
+    <script src="https://cdn-a.arcgis.com/dbcdn/1B88C8F/assets/ckeditor/translations.js"></script>
+    
+  </body>
+</html>

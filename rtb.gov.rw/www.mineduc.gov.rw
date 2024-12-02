@@ -1,0 +1,2368 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+<meta charset="utf-8">
+<!-- 
+	This website is powered by TYPO3 - inspiring people to share!
+	TYPO3 is a free open source Content Management Framework initially created by Kasper Skaarhoj and licensed under GNU/GPL.
+	TYPO3 is copyright 1998-2024 of Kasper Skaarhoj. Extensions are copyright of their respective owners.
+	Information and contribution at https://typo3.org/
+-->
+
+
+<link rel="icon" href="/_assets/848a49247fad16e632dbfe56b131f2ac/Images/Coat.png" type="image/png">
+<title>MINEDUC:Ministry of Education</title>
+<meta name="generator" content="TYPO3 CMS">
+<meta name="description" content="The general mission of the Ministry of Education is to transform the Rwandan citizen into skilled human capital for socio-economic development of the country by ensuring equitable access to quality education focusing on combating illiteracy, promotion of science and technology, critical thinking and positive values.">
+<meta name="twitter:card" content="summary">
+
+<link rel="stylesheet" href="/_assets/2856437fee86a9f23584059ee8091e5b/Css/animate.css?1732803283" media="all">
+<link rel="stylesheet" href="/_assets/2856437fee86a9f23584059ee8091e5b/Css/bootstrap.min.css?1732803283" media="all">
+<link rel="stylesheet" href="/_assets/2856437fee86a9f23584059ee8091e5b/Css/index.css?1732803283" media="all">
+<link rel="stylesheet" href="/_assets/2856437fee86a9f23584059ee8091e5b/Css/sweetalert.css?1732803283" media="all">
+<link rel="stylesheet" href="/_assets/2856437fee86a9f23584059ee8091e5b/Fonts/style.css?1732803283" media="all">
+<link rel="stylesheet" href="/_assets/2856437fee86a9f23584059ee8091e5b/Css/ministry_ui.css?1732803283" media="all">
+<link rel="stylesheet" href="/_assets/69ab2bd13884b017f87011af4f22ebca/Css/waconcookiemanagement.css?1710488774" media="all">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" media="all">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/fontawesome.min.css" media="all">
+<link rel="stylesheet" href="/_assets/2856437fee86a9f23584059ee8091e5b/Css/material_icon.css?1732803283" media="all">
+<link rel="stylesheet" href="/_assets/2856437fee86a9f23584059ee8091e5b/Css/all.css?1732803283" media="all">
+<link rel="stylesheet" href="/_assets/2856437fee86a9f23584059ee8091e5b/Css/owl.carousel.min.css?1732803283" media="all">
+<link rel="stylesheet" href="/_assets/2856437fee86a9f23584059ee8091e5b/Css/owl.theme.default.min.css?1732803283" media="all">
+
+
+
+<script src="/_assets/b2ee7e11602f92239d61e026cd4ed9a2/Javascript/smoothscroll.js?1732803282"></script>
+
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1, shrink-to-fit=no">    <script>
+        (function (w, d, s, l, i) {
+        w[l] = w[l] || []; w[l].push({
+        'gtm.start':
+            new Date().getTime(), event: 'gtm.js'
+        }); var f = d.getElementsByTagName(s)[0],
+        j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-WRQMRB6');
+    </script>
+<link rel="canonical" href="https://www.mineduc.gov.rw/"/>
+
+<!-- This site is optimized with the Yoast SEO for TYPO3 plugin - https://yoast.com/typo3-extensions-seo/ -->
+<script type="application/ld+json">[{"@context":"https:\/\/www.schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https:\/\/www.mineduc.gov.rw\/1","name":"Mineduc"}},{"@type":"ListItem","position":2,"item":{"@id":"https:\/\/www.mineduc.gov.rw\/","name":"Home"}}]}]</script>
+</head>
+<body>
+
+<noscript>
+  <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WRQMRB6" height="0" width="0"
+    style="display:none;visibility:hidden">
+  </iframe>
+</noscript>
+
+
+  
+    
+    
+        <nav class="navbar sticky-top navbar-expand-lg navbar-light ministry_navbar" id="theNav">
+      
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+
+
+
+<div class="container-fluid ministry_container">
+  <a href="/" title="MINEDUC" class="navbar-brand">
+    <img src="https://www.mineduc.gov.rw/index.php?eID=dumpFile&amp;t=f&amp;f=1624&amp;token=ef3f54c23ba5cca952aac71176b49885d3bc2a7e" alt="Image" height="48">
+</a>
+<a href="/" title="MINEDUC" class="navbar-brand logotext">
+	<p class="txt_subtitle fnt_black  mabo0">MINEDUC</p>
+</a>
+  <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
+    aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span id="navbar-hamburger" class="navbar-toggler-icon"></span>
+    <span id="navbar-close" class="hidden"><i class="material-icons txt_content">close</i></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav mx-auto">
+      
+        
+            <li class="nav-item">
+              <a class="nav-link main_option active"
+                href="/" title="Home">
+                Home
+              </a>
+            </li>
+          
+      
+        
+            <li class="nav-item">
+              <a class="nav-link main_option "
+                href="/about" title="About">
+                About
+              </a>
+            </li>
+          
+      
+        
+            <li class="nav-item">
+              <a class="nav-link main_option "
+                href="/programs" title="Mandate">
+                Mandate
+              </a>
+            </li>
+          
+      
+        
+            <li class="nav-item">
+              <a class="nav-link main_option "
+                href="/services" title="Services">
+                Services
+              </a>
+            </li>
+          
+      
+        
+            <li class="nav-item">
+              <a class="nav-link main_option "
+                href="/updates/news-2" title="Updates">
+                Updates
+              </a>
+            </li>
+          
+      
+        
+            <li class="nav-item">
+              <a class="nav-link main_option "
+                href="/publications/education-policies" title="Publications">
+                Publications
+              </a>
+            </li>
+          
+      
+        
+            <li class="nav-item">
+              <a class="nav-link main_option "
+                href="/schools-directory" title="Schools Directory">
+                Schools Directory
+              </a>
+            </li>
+          
+      
+    </ul>
+
+    <ul class="navbar-nav ms-auto">
+      <li class="nav-item">
+        <form method="get" id="form_kesearch_pi1" class="search-form" name="form_kesearch_pi1" action="index.php?id=573">
+  <div class="search__wrapper">
+    <input type="hidden" name="id" value="573">
+    <input type="text" class="search__field" name="tx_kesearch_pi1[sword]" value="" placeholder="Search">
+    <button class="search__icon txt_grey" onclick="this.form.searchword.focus();" type="submit"><i class="fa fa-search"></i></button>
+
+    <input id="header_kesearchpagenumber_p1" type="hidden" name="tx_kesearch_pi1[page]" value="1">
+    <input id="header_resetFilters_p1" type="hidden" name="tx_kesearch_pi1[resetFilters]" value="0">
+    <input id="header_sortByField_p1" type="hidden" name="tx_kesearch_pi1[sortByField]" value="">
+    <input id="header_sortByDir_p1" type="hidden" name="tx_kesearch_pi1[sortByDir]" value="">
+  </div>
+</form>
+      <li>
+        
+      <li class="nav-item dropdown">
+        
+          
+            <a class="nav-link dropdown-toggle" href="/" id="navbarDropdown" role="button"  data-bs-toggle="dropdown"
+            aria-haspopup="true" aria-expanded="false" title="English">
+              English
+            </a>
+          
+        
+        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+          
+            
+                <li><a class="dropdown-item " href="/"
+                  hreflang="en-US" title="English">
+                  English
+                </a></li>
+              
+          
+        </ul>
+      </li>
+      <li class="nav-item">
+		<a class="nav-link txt_black">|</a>
+	</li>
+
+
+
+
+
+	<li class="nav-item">
+		<a href="https://www.gov.rw/" target="_blank" title="GOV.RW" class="nav-link gov_link">
+			GOV.RW
+		</a>
+	</li>
+    </ul>
+  </div>
+</div>
+</nav>
+
+
+
+  
+
+
+  
+
+
+  
+    
+  
+
+
+  
+
+
+  
+    
+  
+
+
+  
+    
+  
+
+
+  
+    
+  
+
+
+  <!-- SECTION LANDING STARTS -->
+  <div class="container-fluid d-flex" id="section_landing" style="background:linear-gradient(rgba(0, 0, 0, 0),rgba(0, 0, 0, 0.9)), url(https://www.mineduc.gov.rw/index.php?eID=dumpFile&amp;t=p&amp;p=14933&amp;token=e7a2dbc45bf04578ba24029534a1a90a3a877383);">
+    <div class="container align-self-center pad0">
+      
+    
+
+            <a id="c18714"></a>
+            
+            
+            
+                
+
+
+
+            
+            
+                
+
+    
+
+
+
+            
+            
+
+    
+    
+  
+      <div class="news">
+        
+  <!--TYPO3SEARCH_end-->
+  
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+          <div class="events" id="eventsContainer" style="display:none;">
+            <div class="dropdown show" id="notif_dropdown">
+              <a class="text-right float-right" data-bs-toggle="dropdown" data-bs-dismiss="alert" data-display="static" data-toggle="dropdown" data-dismiss="alert" data-display="static" aria-expanded="true">
+                <i class="fas fa-times event_toggle" id="notif_icon" title="Close"></i>
+              </a>
+              <div class="dropdown-menu dropdown-menu-right event_container show">
+                
+                  
+<!--
+=====================
+Partials/List/Item.html
+-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+        
+        
+        
+    
+
+
+
+
+
+<!-- Hospital services -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                
+                  
+<!--
+=====================
+Partials/List/Item.html
+-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+        
+        
+        
+    
+
+
+
+
+
+<!-- Hospital services -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                
+                  
+<!--
+=====================
+Partials/List/Item.html
+-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+        
+        
+        
+    
+
+
+
+
+
+<!-- Hospital services -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                
+                  
+<!--
+=====================
+Partials/List/Item.html
+-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+        
+        
+        
+    
+
+
+
+
+
+<!-- Hospital services -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                
+                  
+<!--
+=====================
+Partials/List/Item.html
+-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+        
+        
+        
+    
+
+
+
+
+
+<!-- Hospital services -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                
+                  
+<!--
+=====================
+Partials/List/Item.html
+-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+        
+        
+        
+    
+
+
+
+
+
+<!-- Hospital services -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                
+                  
+<!--
+=====================
+Partials/List/Item.html
+-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+        
+        
+        
+    
+
+
+
+
+
+<!-- Hospital services -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                
+                  
+<!--
+=====================
+Partials/List/Item.html
+-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+        
+        
+        
+    
+
+
+
+
+
+<!-- Hospital services -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                
+                  
+<!--
+=====================
+Partials/List/Item.html
+-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+        
+        
+        
+    
+
+
+
+
+
+<!-- Hospital services -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                
+                  
+<!--
+=====================
+Partials/List/Item.html
+-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+        
+        
+        
+    
+
+
+
+
+
+<!-- Hospital services -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                
+                  
+<!--
+=====================
+Partials/List/Item.html
+-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+        
+        
+        
+    
+
+
+
+
+
+<!-- Hospital services -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                
+                  
+<!--
+=====================
+Partials/List/Item.html
+-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+        
+        
+        
+    
+
+
+
+
+
+<!-- Hospital services -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </div>
+            </div>
+          </div>
+        
+      
+      
+      
+      
+      
+
+      
+      
+          
+      
+    
+      
+      
+       
+
+      
+      
+      
+      
+      
+
+      
+
+
+    
+  <!--TYPO3SEARCH_begin-->
+
+      </div>
+    
+
+
+
+            
+                
+
+
+
+            
+            
+                
+
+
+
+            
+            
+
+        
+
+
+      <div class="col-12 col-lg-6 col-md-6 col-sm-8 pad0">
+        <p class="txt_head txt_white mabo16">MINEDUC</p>
+<p class="txt_title txt_white fnt_light mabo32">Ministry of Education</p>
+        <form method="get" id="form_kesearch_pi2" class="search-form" name="form_kesearch_pi2" action="index.php?id=573">
+<div class="input-group mb-3">
+<input type="hidden" name="id" value="573">
+<input type="text" class="form-control input_big txt_content txt_black" id="ke_search_sword" name="tx_kesearch_pi1[sword]" value="" placeholder="What are you looking for?">
+<div class="input-group-append">
+<button class="btn btn_section_landing" onclick="this.form.searchword.focus();" type="submit"><span class="show_phone"><i class="material-icons">search</i></span><span class="hide_phone">Search</span></button>
+</div>
+<input id="kesearchpagenumber_p2" type="hidden" name="tx_kesearch_pi1[page]" value="1">
+<input id="resetFilters_p2" type="hidden" name="tx_kesearch_pi1[resetFilters]" value="0">
+<input id="sortByField_p2" type="hidden" name="tx_kesearch_pi1[sortByField]" value="">
+<input id="sortByDir_p2" type="hidden" name="tx_kesearch_pi1[sortByDir]" value="">
+</div>
+</form>
+      </div>
+    </div>
+  </div>
+  <!-- SECTION LANDING ENDS -->
+
+  
+
+<div class="container-fluid" id="section_programs">
+    <div class="container">
+        <div class="row mabo32">
+            <div class="col-lg-12 col-md-12 col-sm-12 col-12 mato32">
+                <div class="row">
+                    
+                        
+                            
+    
+
+            <a id="c3031"></a>
+            
+            
+            
+                
+
+
+
+            
+            
+                
+
+    
+
+
+
+            
+            
+
+    
+    
+  
+      <div class="news">
+        
+  <!--TYPO3SEARCH_end-->
+  
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+          <div class="col-12 pad0">
+            <div class="row">
+              
+                  
+                  
+                      
+<!--
+=====================
+Partials/List/Item.html
+-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        <div class="col-lg-4 col-md-4 col-sm-12 col-12 mabo32">
+            <div class="col-12 card_white text-left pad32">
+                <i class="fas fa-tag txt_title txt_blue mabo32"></i>
+                <div class="articletype-1"
+                    itemscope="itemscope" itemtype="http://schema.org/Article">
+                    <h3 class="txt_subtitle txt_black">Basic Education</h3>
+                    <!-- teaser -->
+                    <div class="txt_content fnt_medium txt_grey text-justify">
+                        
+                            
+                                    The Basic Education (BE) sub-sector is composed of Pre-primary, Primary, and Secondary education levels. In addition, there is non-formal education,…
+                                
+                        
+                    </div>
+                    <a class="btn btn_link txt_blue" title="Basic Education" href="/basic-education">
+                        Read more
+                        →
+                    </a>
+                </div>
+            </div>
+        </div>
+    
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Hospital services -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                  
+                      
+<!--
+=====================
+Partials/List/Item.html
+-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        <div class="col-lg-4 col-md-4 col-sm-12 col-12 mabo32">
+            <div class="col-12 card_white text-left pad32">
+                <i class="fas fa-tag txt_title txt_blue mabo32"></i>
+                <div class="articletype-1"
+                    itemscope="itemscope" itemtype="http://schema.org/Article">
+                    <h3 class="txt_subtitle txt_black">Technical and Vocational Training</h3>
+                    <!-- teaser -->
+                    <div class="txt_content fnt_medium txt_grey text-justify">
+                        
+                            
+                                    TVET has emerged as one of the most effective human resource development strategies that Rwanda has embraced in order to train and modernize the…
+                                
+                        
+                    </div>
+                    <a class="btn btn_link txt_blue" title="Technical and Vocational Training" href="/technical-and-vocational-training">
+                        Read more
+                        →
+                    </a>
+                </div>
+            </div>
+        </div>
+    
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Hospital services -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                  
+                      
+<!--
+=====================
+Partials/List/Item.html
+-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        <div class="col-lg-4 col-md-4 col-sm-12 col-12 mabo32">
+            <div class="col-12 card_white text-left pad32">
+                <i class="fas fa-tag txt_title txt_blue mabo32"></i>
+                <div class="articletype-1"
+                    itemscope="itemscope" itemtype="http://schema.org/Article">
+                    <h3 class="txt_subtitle txt_black">Higher Learning Institutions</h3>
+                    <!-- teaser -->
+                    <div class="txt_content fnt_medium txt_grey text-justify">
+                        
+                            
+                                    The Government of Rwanda (GoR) has prioritised the building of a robust and functional higher education sector. It is believed that a relevant,…
+                                
+                        
+                    </div>
+                    <a class="btn btn_link txt_blue" title="Higher Learning Institutions" href="/higher-learning-institutions">
+                        Read more
+                        →
+                    </a>
+                </div>
+            </div>
+        </div>
+    
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Hospital services -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                  
+                  
+                      
+                  
+              
+            </div>
+          </div>
+        
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+
+      
+      
+          
+      
+    
+      
+      
+       
+
+      
+      
+      
+      
+      
+
+      
+
+
+    
+  <!--TYPO3SEARCH_begin-->
+
+      </div>
+    
+
+
+
+            
+                
+
+
+
+            
+            
+                
+
+
+
+            
+            
+
+        
+
+
+                        
+                    
+                </div>
+            </div>
+        </div>
+        <div class="row text-center justify-content-center">
+            <div class="col-lg-6 col-md-6 col-sm-6 col-12">
+                
+                    
+                        <div class="row text-center justify-content-center">
+	<div class="col-lg-6 col-md-6 col-sm-6 col-12">
+		<a href="/programs" title="Explore More" class="btn btn_blue">
+			Explore More
+		</a>
+	</div>
+</div>
+                    
+                
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="container-fluid bg_grey" id="section_updates">
+
+    <div class="container">
+        
+            
+                
+    
+
+            <a id="c9887"></a>
+            
+            
+            
+                
+
+
+
+            
+            
+            
+
+    <div class="container pad0 main-content">
+  <div class="row mabo32">
+    <div class="col-7 pad032">
+      <p class="txt_title txt_black mabo32">Latest updates</p>
+    </div>
+    <div class="col-5 pad032">
+      <div class="owl-theme updates_controls">
+        <div class="owl-controls">
+          <div class="custom-nav owl-nav disabled"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+            
+                
+
+
+
+            
+            
+                
+
+
+
+            
+            
+
+        
+
+
+            
+        
+        <div class="container pad0">
+            
+                
+                    
+    
+
+            <a id="c9888"></a>
+            
+            
+            
+                
+
+
+
+            
+            
+                
+
+    
+
+
+
+            
+            
+
+    
+    
+  
+      <div class="news">
+        
+  <!--TYPO3SEARCH_end-->
+  
+      
+          <div class="owl-carousel" id="carousel-news">
+            
+                        
+                        
+                            
+<!--
+=====================
+Partials/List/Item.html
+-->
+
+
+
+        <div class="col-12">
+            <div class="boximg">
+                <a title="Minister of Education Advocates for Autism-Inclusive Education" href="/news-detail/minister-of-education-advocates-for-autism-inclusive-education">
+                    
+                            <img class="img-responsive blog_small_cover mabo32" src="https://www.mineduc.gov.rw/index.php?eID=dumpFile&amp;t=p&amp;p=331868&amp;token=c0a3426b545d08cbdc13e7a6a0550e540f53c4cc" width="350" height="201" alt="" />
+                        
+                </a>
+            </div>
+            <div class="articletype-0"
+                itemscope="itemscope" itemtype="http://schema.org/Article">
+                
+  
+      <div class="txt_info txt_grey mabo16 extra">
+        <!-- author -->
+        
+        
+
+        <!-- category -->
+        
+
+        
+      </div>
+    
+
+                <a title="Minister of Education Advocates for Autism-Inclusive Education" href="/news-detail/minister-of-education-advocates-for-autism-inclusive-education">
+                    <h3 class="txt_content txt_black fnt_black mabo16 text-uppercase">
+                        Minister of Education Advocates for Autism-Inclusive Education</h3>
+                </a>
+                <div class="txt_info txt_grey mabo16 extra">
+                    <time itemprop="datePublished" datetime="2024-11-27">
+                                Wednesday, 27 November, 2024
+                            </time></div>
+                <!-- teaser -->
+                <div class="txt_content txt_grey text-justify mabo16 lead">
+                    
+                        
+                                <p class="text-justify">Kigali: Minister of Education, Joseph Nsengimana, engaged with the Rwanda Parents’ Initiative on Autism to tackle challenges faced by children with…</p>
+                            
+                    
+                </div>
+                <a class="btn btn_link txt_blue" title="Minister of Education Advocates for Autism-Inclusive Education" href="/news-detail/minister-of-education-advocates-for-autism-inclusive-education">
+                    Read more
+                    →
+                </a>
+            </div>
+        </div>
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Hospital services -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        
+                            
+<!--
+=====================
+Partials/List/Item.html
+-->
+
+
+
+        <div class="col-12">
+            <div class="boximg">
+                <a title="Key stakeholders in education convene for 2023/24 joint sector review, pledge continued support the future of education" href="/news-detail/key-stakeholders-in-education-convene-for-2023-24-joint-sector-review-pledge-continued-support-the-future-of-education">
+                    
+                            <img class="img-responsive blog_small_cover mabo32" src="https://www.mineduc.gov.rw/index.php?eID=dumpFile&amp;t=p&amp;p=320403&amp;token=94a5b1b82406f096e010c82ebc5771e7b2e4a84f" width="350" height="190" alt="" />
+                        
+                </a>
+            </div>
+            <div class="articletype-0"
+                itemscope="itemscope" itemtype="http://schema.org/Article">
+                
+  
+      <div class="txt_info txt_grey mabo16 extra">
+        <!-- author -->
+        
+        
+
+        <!-- category -->
+        
+
+        
+      </div>
+    
+
+                <a title="Key stakeholders in education convene for 2023/24 joint sector review, pledge continued support the future of education" href="/news-detail/key-stakeholders-in-education-convene-for-2023-24-joint-sector-review-pledge-continued-support-the-future-of-education">
+                    <h3 class="txt_content txt_black fnt_black mabo16 text-uppercase">
+                        Key stakeholders in education convene for 2023/24 joint sector review, pledge continued support the future of education</h3>
+                </a>
+                <div class="txt_info txt_grey mabo16 extra">
+                    <time itemprop="datePublished" datetime="2024-11-22">
+                                Friday, 22 November, 2024
+                            </time></div>
+                <!-- teaser -->
+                <div class="txt_content txt_grey text-justify mabo16 lead">
+                    
+                        
+                                <p>Kigali: The Ministry of Education, in partnership with Education Sector Development Partners convened the 2023/24 Backward-Looking Joint Education…</p>
+                            
+                    
+                </div>
+                <a class="btn btn_link txt_blue" title="Key stakeholders in education convene for 2023/24 joint sector review, pledge continued support the future of education" href="/news-detail/key-stakeholders-in-education-convene-for-2023-24-joint-sector-review-pledge-continued-support-the-future-of-education">
+                    Read more
+                    →
+                </a>
+            </div>
+        </div>
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Hospital services -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        
+                            
+<!--
+=====================
+Partials/List/Item.html
+-->
+
+
+
+        <div class="col-12">
+            <div class="boximg">
+                <a title="MINEDUC receives a courtesy call from the Ambassador of China to Rwanda" href="/news-detail/mineduc-receives-a-courtesy-call-by-the-ambassador-of-china-to-rwanda">
+                    
+                            <img class="img-responsive blog_small_cover mabo32" src="https://www.mineduc.gov.rw/index.php?eID=dumpFile&amp;t=p&amp;p=320308&amp;token=dee6fe7964d5e75f25a4bc8da993a979fb3cae63" width="350" height="228" alt="" />
+                        
+                </a>
+            </div>
+            <div class="articletype-0"
+                itemscope="itemscope" itemtype="http://schema.org/Article">
+                
+  
+      <div class="txt_info txt_grey mabo16 extra">
+        <!-- author -->
+        
+        
+
+        <!-- category -->
+        
+
+        
+      </div>
+    
+
+                <a title="MINEDUC receives a courtesy call from the Ambassador of China to Rwanda" href="/news-detail/mineduc-receives-a-courtesy-call-by-the-ambassador-of-china-to-rwanda">
+                    <h3 class="txt_content txt_black fnt_black mabo16 text-uppercase">
+                        MINEDUC receives a courtesy call from the Ambassador of China to Rwanda</h3>
+                </a>
+                <div class="txt_info txt_grey mabo16 extra">
+                    <time itemprop="datePublished" datetime="2024-11-21">
+                                Thursday, 21 November, 2024
+                            </time></div>
+                <!-- teaser -->
+                <div class="txt_content txt_grey text-justify mabo16 lead">
+                    
+                        
+                                <p>Kigali: The Minister of Education Joseph Nsengimana received a courtesy call from H.E. Wang Xuekun, the Ambassador of China to Rwanda. Their…</p>
+                            
+                    
+                </div>
+                <a class="btn btn_link txt_blue" title="MINEDUC receives a courtesy call from the Ambassador of China to Rwanda" href="/news-detail/mineduc-receives-a-courtesy-call-by-the-ambassador-of-china-to-rwanda">
+                    Read more
+                    →
+                </a>
+            </div>
+        </div>
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Hospital services -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        
+                        
+                            
+                        
+                    
+          </div>
+        
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+
+      
+      
+          
+      
+    
+      
+      
+       
+
+      
+      
+      
+      
+      
+
+      
+
+
+    
+  <!--TYPO3SEARCH_begin-->
+
+      </div>
+    
+
+
+
+            
+                
+
+
+
+            
+            
+                
+
+
+
+            
+            
+
+        
+
+
+                
+            
+        </div>
+        <div class="col-12 mato32 text-center">
+            
+                
+                    <div class="row text-center justify-content-center">
+	<div class="col-lg-6 col-md-6 col-sm-6 col-12">
+		<a href="/updates/news-2" title="Explore More" class="btn btn_blue">
+			Explore More
+		</a>
+	</div>
+</div>
+                
+            
+        </div>
+
+    </div>
+</div>
+
+<div class="container-fluid" id="section_affiliated">
+    <div class="container pad0">
+        
+            
+                <div class="col-12 col-lg-12 col-md-12 col-sm-6 align-self-center">
+	<p class="txt_title txt_black">Affiliated Agencies</p>
+		
+	
+	<p class="txt_content txt_grey mabo32">The vision of the Ministry of Education (MINEDUC) is to provide the citizens of Rwanda with equal opportunities to high quality education through world class learning facilities and renowned learning institutions.</p>
+		
+</div>
+            
+        
+        <div class="col-12 mato32">
+            <div class="row">
+                
+                    
+                        <div class="col-12 col-lg-3 col-md-4 col-sm-6 mabo32">
+	<div class="col-lg-12 col-md-12 col-sm-12 col-12 card_affiliated">
+		
+			<img src="https://www.mineduc.gov.rw/index.php?eID=dumpFile&amp;t=f&amp;f=17572&amp;token=b0df35f51c04602b6291f4887f55d2c751474dd8" class="mabo8" height="60" alt="partner"><hr/>
+		
+		<p class="txt_subtitle txt_black">REB</p>
+		<p class="txt_content txt_grey mato16">Rwanda Basic Education</p>
+		
+			<a href="https://www.reb.gov.rw/home" target="_blank" title="REB" class="btn btn_link">
+				Visit →
+			</a>
+		
+	</div>
+</div>
+                    
+                
+                    
+                        <div class="col-12 col-lg-3 col-md-4 col-sm-6 mabo32">
+	<div class="col-lg-12 col-md-12 col-sm-12 col-12 card_affiliated">
+		
+			<img src="https://www.mineduc.gov.rw/index.php?eID=dumpFile&amp;t=f&amp;f=17592&amp;token=a07191948dd9e968d1e86561c207c5e674891510" class="mabo8" height="60" alt="partner"><hr/>
+		
+		<p class="txt_subtitle txt_black">NESA</p>
+		<p class="txt_content txt_grey mato16">National Examination and School Inspection Authority</p>
+		
+			<a href="https://www.nesa.gov.rw/" target="_blank" title="NESA" class="btn btn_link">
+				Visit →
+			</a>
+		
+	</div>
+</div>
+                    
+                
+                    
+                        <div class="col-12 col-lg-3 col-md-4 col-sm-6 mabo32">
+	<div class="col-lg-12 col-md-12 col-sm-12 col-12 card_affiliated">
+		
+			<img src="https://www.mineduc.gov.rw/index.php?eID=dumpFile&amp;t=f&amp;f=17586&amp;token=e700899094d5488ac02d179813b95521786d8f35" class="mabo8" height="60" alt="partner"><hr/>
+		
+		<p class="txt_subtitle txt_black">RTB</p>
+		<p class="txt_content txt_grey mato16">Rwanda TVET Board</p>
+		
+			<a href="http://www.rtb.gov.rw" target="_blank" title="RTB" class="btn btn_link">
+				Visit →
+			</a>
+		
+	</div>
+</div>
+                    
+                
+                    
+                        <div class="col-12 col-lg-3 col-md-4 col-sm-6 mabo32">
+	<div class="col-lg-12 col-md-12 col-sm-12 col-12 card_affiliated">
+		
+			<img src="https://www.mineduc.gov.rw/index.php?eID=dumpFile&amp;t=f&amp;f=2295&amp;token=b1250c7ea395ae0530eefde99cd0593d2be13b1c" class="mabo8" height="60" alt="partner"><hr/>
+		
+		<p class="txt_subtitle txt_black">UR</p>
+		<p class="txt_content txt_grey mato16">University of Rwanda</p>
+		
+			<a href="/university-of-rwanda" target="_blank" title="UR" class="btn btn_link">
+				Visit →
+			</a>
+		
+	</div>
+</div>
+                    
+                
+                    
+                        <div class="col-12 col-lg-3 col-md-4 col-sm-6 mabo32">
+	<div class="col-lg-12 col-md-12 col-sm-12 col-12 card_affiliated">
+		
+			<img src="https://www.mineduc.gov.rw/index.php?eID=dumpFile&amp;t=f&amp;f=2296&amp;token=a98f3accc63eb10f686f27f49090d37666ca6e48" class="mabo8" height="60" alt="partner"><hr/>
+		
+		<p class="txt_subtitle txt_black">RP</p>
+		<p class="txt_content txt_grey mato16">Rwanda Polytechnic</p>
+		
+			<a href="http://www.rp.ac.rw" target="_blank" title="RP" class="btn btn_link">
+				Visit →
+			</a>
+		
+	</div>
+</div>
+                    
+                
+                    
+                        <div class="col-12 col-lg-3 col-md-4 col-sm-6 mabo32">
+	<div class="col-lg-12 col-md-12 col-sm-12 col-12 card_affiliated">
+		
+			<img src="https://www.mineduc.gov.rw/index.php?eID=dumpFile&amp;t=f&amp;f=435&amp;token=795108a09af0455f218944c43b044c38ca9da5ac" class="mabo8" height="60" alt="partner"><hr/>
+		
+		<p class="txt_subtitle txt_black">HEC</p>
+		<p class="txt_content txt_grey mato16">Higher Education Council</p>
+		
+			<a href="https://hec.gov.rw" target="_blank" rel="noreferrer" title="HEC" class="btn btn_link">
+				Visit →
+			</a>
+		
+	</div>
+</div>
+                    
+                
+                    
+                        <div class="col-12 col-lg-3 col-md-4 col-sm-6 mabo32">
+	<div class="col-lg-12 col-md-12 col-sm-12 col-12 card_affiliated">
+		
+			<img src="https://www.mineduc.gov.rw/index.php?eID=dumpFile&amp;t=f&amp;f=10424&amp;token=fdf10d4a62f76ad883fa7c78cdc31d60b2ab48c5" class="mabo8" height="60" alt="partner"><hr/>
+		
+		<p class="txt_subtitle txt_black">CNRU</p>
+		<p class="txt_content txt_grey mato16">Rwanda National Commission for UNESCO</p>
+		
+			<a href="http://www.unesco.rw/" target="_blank" rel="noreferrer" title="CNRU" class="btn btn_link">
+				Visit →
+			</a>
+		
+	</div>
+</div>
+                    
+                
+            </div>
+        </div>
+    </div>
+</div>
+
+
+  <!-- TWITTER -->
+  <div class="container-fluid " id="section_updates_twitter">
+  <!--  <div class="container pad0 main-content-twitter">
+      <div class="row mabo32">
+        <div class="col-6 pad032">
+          <p class="txt_title txt_blue mabo32"><span><i class="fab fa-twitter "></i></span></p>
+        </div>
+        <div class="col-6 pad032">
+          <div class="owl-theme updates_controls">
+            <div class="owl-controls">
+              <div class="custom-nav-twitter owl-nav"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>-->
+    
+    
+
+            <a id="c54538"></a>
+            
+            
+            
+                
+
+
+
+            
+            
+            
+
+    <style>
+#section_updates_twitter {
+    padding: 100px 16px;
+    border-top: 1px solid #eee;
+    display: none;
+}
+</style>
+
+
+            
+                
+
+
+
+            
+            
+                
+
+
+
+            
+            
+
+        
+
+
+  </div>
+  <!-- END TWITTER -->
+
+<!--SECTION FOOTER STARTS-->
+
+<div class="container-fluid" id="section_footer" style="margin-bottom: 0px">
+
+  <div class="container">
+    <div class="row pad016 d-flex">
+      <div class="col-12 col-lg-6 col-md-6 col-sm-6 align-self-center">
+	<div class="row">
+		<div class="col-12 col-lg-8 col-md-8 col-sm-8 pad0">
+			<p class="txt_title txt_blue fnt_black mabo32">Connect with us</p>
+			
+				
+						
+								<p class="mabo0">
+									<a href="https://www.mineduc.gov.rw/index.php?eID=dumpFile&amp;t=f&amp;f=9712&amp;token=323b702617b67cfd6cc9b9f295b669448d2fe2ab" class="btn btn_link_white">
+										<i class="fas fa-phone mr-3"></i>Hotline: 2028
+									</a>
+								</p>
+							
+					
+			
+				
+						
+								<p class="mabo0">
+									<a href="https://mail.mineduc.gov.rw/owa/auth/logon.aspx?replaceCurrent=1&amp;url=https%3a%2f%2fmail.mineduc.gov.rw%2fowa%2f" target="https://mail.mineduc.gov.rw/owa/auth/logon.aspx?replaceCurrent=1&amp;url=https%3a%2f%2fmail.mineduc.gov.rw%2fowa%2f" rel="noreferrer" class="btn btn_link_white">
+										<i class="fas fa-envelope-open mr-3"></i>info@mineduc.gov.rw
+									</a>
+								</p>
+							
+					
+			
+				
+						
+								<p class="mabo0">
+									<a href="/contact" class="btn btn_link_white">
+										<i class="fas fa-at mr-3"></i>Contact Us →
+									</a>
+								</p>
+							
+					
+			
+				
+						
+								<p class="mabo0">
+									<a href="https://mail.mineduc.gov.rw/owa/auth/logon.aspx?replaceCurrent=1&amp;url=https%3a%2f%2fmail.mineduc.gov.rw%2fowa%2f" class="btn btn_link_white">
+										<i class="fas fa-envelope-open mr-3"></i>Check Mail
+									</a>
+								</p>
+							
+					
+			
+				
+						
+								<p class="mabo0">
+									<a href="https://selfservice.mifotra.gov.rw/" target="_blank" rel="noreferrer" class="btn btn_link_white">
+										<i class="fas fa-link mr-3"></i>IPPIS Self-Service Portal
+									</a>
+								</p>
+							
+					
+			
+				
+						
+								<p class="mabo0">
+									<a href="https://e-recruitment.mifotra.gov.rw/#/e-recruitment" target="_blank" rel="noreferrer" class="btn btn_link_white">
+										<i class="fas fa-link mr-3"></i>IPPIS E-recruitment portal
+									</a>
+								</p>
+							
+					
+			
+			<hr>
+			<div class="col-12 pad0">
+
+				
+					<a href="https://www.facebook.com/MineducRwanda" target="_blank" rel="noreferrer" title="Facebook" class="ico-class">
+						<i class="fab fa-facebook-f gov_social mt-2"></i>
+					</a>
+				
+					<a href="https://www.youtube.com/channel/UCKmZx1w6gv32Y65YxkRk2Eg?view_as=subscriber" target="_blank" rel="noreferrer" title="Youtube" class="ico-class">
+						<i class="fab fa-youtube gov_social mt-2"></i>
+					</a>
+				
+					<a href="https://twitter.com/Rwanda_Edu" target="_blank" rel="noreferrer" title="Twitter" class="ico-class">
+						<i class="fab fa-twitter gov_social mt-2"></i>
+					</a>
+				
+					<a href="https://www.instagram.com/rwanda_edu/" target="_blank" rel="noreferrer" title="Instagram" class="ico-class">
+						<i class="fab fa-instagram gov_social mt-2"></i>
+					</a>
+				
+					<a href="https://www.flickr.com/photos/mineduc_rwanda/" target="_blank" rel="noreferrer" title="flickr" class="ico-class">
+						<i class="fab fa-flickr gov_social mt-2"></i>
+					</a>
+				
+			</div>
+			<hr>
+			<p class="txt_info txt_white ">© 2024 Government of the Republic of Rwanda</p>
+
+		</div> 
+		<div class="col">
+
+		</div>
+	</div>
+</div>
+    
+
+            <a id="c58595"></a>
+            
+            
+            
+                
+
+
+
+            
+            
+            
+
+    <style>
+  .search-form{
+    display:none;
+  }
+</style>
+
+
+            
+                
+
+
+
+            
+            
+                
+
+
+
+            
+            
+
+        
+
+
+      <div class="col-12 col-lg-6 col-md-6 col-sm-6 pad0" id="map_container">
+        
+    
+
+            <a id="c2783"></a>
+            
+            
+            
+                
+
+
+
+            
+            
+            
+
+    <iframe id="map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3987.5385449596533!2d30.077624114754915!3d-1.9369917985878276!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x19dca6bc9e368c2f%3A0xd1209da3eb30f734!2sMinistry%20of%20Education!5e0!3m2!1sen!2srw!4v1573555512545!5m2!1sen!2srw" height="500" width="100%" frameborder="0" style="border:0;" allowfullscreen></iframe>
+
+
+
+
+            
+                
+
+
+
+            
+            
+                
+
+
+
+            
+            
+
+        
+
+
+      </div>
+
+    </div>
+
+  </div>
+
+</div>
+<button onclick="topFunction()" id="backToTop" title="Go to top">↑<br><span class="txt_info txt_grey">Back top</span></button>
+
+<!--SECTION FOOTER ENDS-->
+<script src="{$plugin.tx_recaptcha.api_server ?? $evoweb.recaptcha.apiServer}{$plugin.tx_recaptcha.lang ?? $evoweb.recaptcha.lang}"></script>
+<script src="/_assets/2856437fee86a9f23584059ee8091e5b/JavaScript/jquery-3.6.0.js?1732803283"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
+<script src="/_assets/2856437fee86a9f23584059ee8091e5b/JavaScript/popper.min.js?1732803283"></script>
+<script src="/_assets/2856437fee86a9f23584059ee8091e5b/JavaScript/bootstrap.min.js?1732803283"></script>
+<script src="/_assets/2856437fee86a9f23584059ee8091e5b/JavaScript/sweetalert.min.js?1732803283"></script>
+<script src="/_assets/2856437fee86a9f23584059ee8091e5b/JavaScript/owl.carousel.min.js?1732803283"></script>
+<script src="/_assets/2856437fee86a9f23584059ee8091e5b/JavaScript/wow.min.js?1732803283"></script>
+<script src="/_assets/2856437fee86a9f23584059ee8091e5b/JavaScript/scripts.js?1732803283"></script>
+<script src="/_assets/69ab2bd13884b017f87011af4f22ebca/JavaScript/waconcookiemanagement.js?1710488774"></script>
+
+
+</body>
+</html>
